@@ -1,0 +1,7 @@
+{
+    "gopls": {
+        "buildFlags": [
+            "-tags=tablegen,clonegen", //这里是自定义的标签
+        ]
+    },
+}
